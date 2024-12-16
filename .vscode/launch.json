@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/natpakan_k./Desktop/COM PRO C++/We_wish_you_a_merry_christmas",
+      "program": "/Users/natpakan_k./Desktop/COM PRO C++/We_wish_you_a_merry_christmas/build/Debug/outDebug"
+    }
+  ]
+}
